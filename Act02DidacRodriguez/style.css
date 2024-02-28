@@ -1,0 +1,36 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-image: url(russell.gif);
+  background-size: 25%;
+}
+.Log{
+  padding-top: 175px;
+}
+.titulo{
+  background-color: mediumaquamarine;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  border: 3px black solid;
+}
+.titulo h1{
+  font-size: 25px;
+}
+.container{
+  padding-top: 50px;
+}
+form{
+  padding-top: 30px;
+  padding-bottom: 10px;
+  margin: auto;
+  width: 400px;
+  height: 230px;
+  background-color: mediumaquamarine;
+  border: 3px black solid;
+  text-align: center;
+}
+
+form h1{
+  font-size: 25px;
+}

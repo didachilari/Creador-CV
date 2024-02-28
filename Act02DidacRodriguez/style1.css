@@ -1,0 +1,35 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url(right.gif);
+    background-size: 350px;
+    background-position: center;
+  }
+
+  .Log{
+    padding-top: 50px;
+  }
+  .titulo h1{
+    font-size: 25px;
+  }
+  .container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  form{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: auto;
+    width: 700px;
+    height: 100%;
+    background-color:#99582a;
+    border: 3px black solid;
+    text-align: center;
+  }
+  
+  form h1{
+    font-size: 25px;
+  }
+  form input{
+    width: 50%;
+  }
